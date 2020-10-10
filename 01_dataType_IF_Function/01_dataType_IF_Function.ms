@@ -31,7 +31,7 @@ if (a == true) do
 (
 	print ("a==true: " + a as string)
 )
-if (a != false) do
+if (a != false) then
 (
 	print ("a!=false: " + a as string)
 )
